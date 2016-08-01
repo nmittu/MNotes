@@ -1,0 +1,42 @@
+{
+    "author": "nickmsoccer@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "mnotes",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "MNotes",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "CONTENT": 3,
+            "FONT": 11,
+            "P_BLUE": 6,
+            "P_GREEN": 5,
+            "P_RED": 4,
+            "ROWS": 0,
+            "SHADOWS": 10,
+            "S_BLUE": 9,
+            "S_GREEN": 8,
+            "S_RED": 7,
+            "TITLE": 1,
+            "TYPE": 2
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "21c3b3d6-3e91-493b-ae6c-a2a69e884c8a",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
